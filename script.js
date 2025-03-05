@@ -100,48 +100,48 @@ const questionPool = [
     // Group 1: Questions 1 - 5
     // Question 1:
 {
-  "question": "Where was the first McDonald's restaurant located?",
-  "answer": [33.9471, -118.1182],
-  "name": "San Bernardino, California, USA",
-  "image": "images/mcdonalds_first.jpg",
-  "info": "The first McDonald's opened in 1940 in San Bernardino, California, by Richard and Maurice McDonald, pioneering the fast-food model with the 'Speedee Service System.'"
+  "question": "Where did the Nord Stream pipeline explosions occur in 2022, leading to international controversy over who was responsible?",
+  "answer": [54.876667, 15.41],
+  "name": "Bornholm, Baltic Sea",
+  "image": "images/nord_stream.jpg",
+  "info": "On September 26, 2022, mysterious underwater blasts ruptured the Nord Stream pipelines near Bornholm, sparking global debate over sabotage."
 },
   
     // Question 2:
-    {
-  "question": "Where exactly was Ernesto 'Che' Guevara executed?",
-  "answer": [-18.8314, -64.2164],
-  "name": "La Higuera, Vallegrande, Bolivia",
-  "image": "images/che_guevara_execution.jpg",
-  "info": "Che Guevara was executed on October 9, 1967, in La Higuera, Bolivia, after being captured with CIA support. Nazi war criminal Klaus Barbie played a role in the operation."
+{
+  "question": "On July 8, 2022, a former Prime Minister was shot and killed with a homemade gun while delivering a campaign speech. Where did the assassination take place?",
+  "answer": [34.694056, 135.783944],
+  "name": "Nara, Japan – Assassination Site",
+  "image": "images/shinzo_abe_assassination.jpg",
+  "info": "On July 8, 2022, former Japanese Prime Minister Shinzo Abe was assassinated during a public campaign event in Nara, Japan, by an assailant using a homemade firearm."
 },
   
     // Question 3:
     {
-  "question": "Where did the Hindenburg disaster occur?",
-  "answer": [40.0336, -74.3535],
-  "name": "Naval Air Station Lakehurst, New Jersey, USA",
-  "image": "images/hindenburg_disaster.jpg",
-  "info": "On May 6, 1937, the German airship Hindenburg caught fire and crashed while attempting to land at Naval Air Station Lakehurst, killing 36 people."
+  "question": "In 1849, the first recorded ascent of this iconic mountain, the highest point of any European Union country, took place. Where did the climb happen?",
+  "answer": [45.832778, 6.865],
+  "name": "Mont Blanc, France/Italy border",
+  "image": "images/mont_blanc_ascent.jpg",
+  "info": "On August 8, 1849, the first successful ascent of Mont Blanc was made by Jacques Balmat and Dr. Michel-Gabriel Paccard, marking a milestone in mountaineering."
 },
   
     // Question 4:
-    {
-  "question": "Where was the first telephone call made?",
-  "answer": [42.3593, -71.0574],
-  "name": "Bell's Workshop, Boston, Massachusetts, USA",
-  "image": "images/first_telephone_call.jpg",
-  "info": "The first telephone call was made by Alexander Graham Bell on March 10, 1876, from his workshop in Boston, Massachusetts, when he famously said, 'Mr. Watson, come here, I want to see you.'"
+{
+  "question": "In 1928, this famous motion picture was released, marking the first feature-length sound film. Where did its premiere occur?",
+  "answer": [34.10211993274641, -118.34102904037215],
+  "name": "Grauman's Chinese Theatre, Hollywood, USA",
+  "image": "images/the_jazz_singer_premiere.jpg",
+  "info": "On October 6, 1927, *The Jazz Singer* premiered at Grauman's Chinese Theatre in Hollywood, California, revolutionizing the film industry with its synchronized sound."
 },
   
     // Question 5:
-    {
-        "question": "Where was the first European settlement in the Americas?",
-        "answer": [19.8908, -71.0569],
-        "name": "La Isabela, Dominican Republic",
-        "image": "images/la_isabela.jpg",
-        "info": "La Isabela, founded by Christopher Columbus in 1493, was the first European settlement in the Americas, located on the northern coast of the Dominican Republic."
-      },
+{
+  "question": "In 1978, a Soviet geological survey team stumbled upon a family living in isolation deep in the Siberian wilderness, completely unaware of the outside world for about 40 years. Can you pinpoint where this discovery took place?",
+  "answer": [51.46087, 88.42713],
+  "name": "Lykov Family Discovery Site, Siberia, Russia",
+  "image": "images/lykov_family_discovery.jpg",
+  "info": "The Lykov family, who had been living in complete isolation since the 1930s, were discovered in 1978 by a Soviet geological team, unaware of major historical events for about 40 years."
+},
   
     // Group 2: Questions 6 - 10
     // Question 6:
